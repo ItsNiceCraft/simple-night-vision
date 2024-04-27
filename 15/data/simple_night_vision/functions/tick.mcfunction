@@ -1,0 +1,1 @@
+execute as @a unless data entity @s ActiveEffects[{Id:16}] run effect give @s minecraft:night_vision infinite 0 true
