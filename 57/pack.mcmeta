@@ -1,0 +1,11 @@
+{
+    "pack": {
+      "pack_format": 57,
+      "supported_formats": [
+            57,
+            57
+      ],
+      "description": "Give all players permanent night vision"
+    }
+}
+  
